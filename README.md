@@ -1,1 +1,3 @@
-We provide a code for Richardson-Romberg experiments on 1-dimensional dataset
+We provide a code for Richardson-Romberg experiments on artificial data. To run the experiment, run
+
+### python 1d_example.py
